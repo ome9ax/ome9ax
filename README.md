@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=ome9ax&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/ome9ax)
 -->
+
+- 🔭 I’m currently working on all data related things.
+- 👯 I’m looking to collaborate on anything fun and mind bending.
